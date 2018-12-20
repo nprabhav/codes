@@ -87,3 +87,4 @@ else:
 	classification=max(class_counts,key=lambda cls:class_counts[cls])
 	print 'Class of test file is : ',classification
 
+print 'Hello World'
